@@ -1,0 +1,6 @@
+{
+  "name": "Nykaa Clone",
+  "description": "A starter Nykaa UI clone for beauty, cosmetics, and wellness products built using React (JSX) and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
